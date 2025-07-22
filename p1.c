@@ -1,4 +1,4 @@
-//Checking whether a number is positive or negative
+//printing namah shivaya
 #include <stdio.h>
  
 
