@@ -1,3 +1,4 @@
+//Checking even or odd
 #include <stdio.h>
 int main(){
     int num;
